@@ -1,0 +1,7 @@
+git work flow -> working directoty -(add) staging area -(commit) local repository -(push) remote repository
+git init, git status (working directory have untracked files)
+git add example.txt (add files from wd to staging area)
+git commit -m "first commit" (staging area to local repository)
+git branch -M main
+git remote add origin https://github.com/asmitha456/git-commands.git
+git push -u origin main
