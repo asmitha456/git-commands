@@ -2,6 +2,9 @@ git work flow -> working directoty -(add) staging area -(commit) local repositor
 git init, git status (working directory have untracked files)
 git add example.txt (add files from wd to staging area)
 git commit -m "first commit" (staging area to local repository)
-git branch -M main
+git branch (it can shown current branch)
+git branch -M master (create a master branch)
 git remote add origin https://github.com/asmitha456/git-commands.git
-git push -u origin main
+git push -u origin master
+push -> branch -> pull request -> merge
+git checkout (jump one branch to another)
