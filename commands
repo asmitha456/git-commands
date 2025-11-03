@@ -13,3 +13,5 @@ git clone https://github.com/asmitha456/git-commands.git (used remote to local r
 merge conflicts (git merge origin/master)
 git fetch (get data without changes)
 git pull (get data with changes)
+git branch -d copy1 (first checkout from the branch which you want to delete)
+git push origin --delete branch_name (delete the branch from remote repository)
