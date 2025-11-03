@@ -9,4 +9,7 @@ git push -u origin master
 push -> branch -> pull request -> merge
 git checkout (jump one branch to another)
 git fork used to get a project from another account then you can get code into your repository use git clone
-git clone "url of branch"
+git clone https://github.com/asmitha456/git-commands.git (used remote to local repository)
+merge conflicts (git merge origin/master)
+git fetch (get data without changes)
+git pull (get data with changes)
